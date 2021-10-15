@@ -12,7 +12,7 @@ function divisiblesfive(x){
 function resultado(nota){
     
     if (nota <= 40){
-        console.log(Reprobaste)
+        console.log("Reprobaste")
     }
     if(nota > 40){
         if( nota % 5 == 0){
